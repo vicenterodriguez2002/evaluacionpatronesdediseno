@@ -84,7 +84,7 @@ GestorCredenciales gestor = GestorCredenciales.getInstancia();
 
 ## 📊 Caso de uso
 
-![Caso de uso](https://viroca.cl/patrones/06052025/casodeuso.png)
+![Caso de uso](https://viroca.cl/patrones/06052025/casodeuso2.png)
 
 ---
 
